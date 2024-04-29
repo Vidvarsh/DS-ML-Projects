@@ -1,0 +1,21 @@
+Qtr_Number,customer_feedback,Category_feedback_count,Total_feedback_count,Feedback_Percentage
+1,Bad,35,310,11.29
+1,Good,89,310,28.71
+1,Okay,59,310,19.03
+1,"Very Bad",34,310,10.97
+1,"Very Good",93,310,30.00
+2,Bad,37,262,14.12
+2,Good,58,262,22.14
+2,Okay,53,262,20.23
+2,"Very Bad",39,262,14.89
+2,"Very Good",75,262,28.63
+3,Bad,52,229,22.71
+3,Good,48,229,20.96
+3,Okay,50,229,21.83
+3,"Very Bad",41,229,17.90
+3,"Very Good",38,229,16.59
+4,Bad,58,199,29.15
+4,Good,20,199,10.05
+4,Okay,40,199,20.10
+4,"Very Bad",61,199,30.65
+4,"Very Good",20,199,10.05
